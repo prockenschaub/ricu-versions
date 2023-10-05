@@ -9,17 +9,21 @@ The [ricu package](https://github.com/eth-mds/ricu) in R provides tools and func
 This repository supports configurations for the following versions of ICU databases:
 
 MIMIC III:
-	* version 1.4
+- version 1.4
+  
 MIMIC IV:
-	* version 1.0
-	* version 2.0
-	* version 2.2
+- version 1.0
+- version 2.0
+- version 2.2
+  
 eICU: 
-	* version 2.0
+- version 2.0
+  
 HiRID: 
-	* version 1.1.1
+- version 1.1.1
+  
 AUMCdb: 
-	* version 1.0.2
+- version 1.0.2
 
 Navigate to the respective folder for each version to access the configuration files.
 
